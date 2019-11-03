@@ -1,0 +1,23 @@
+.travel-content {
+  background-color: rgb(236, 236, 201);
+  padding: 40px 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.travel-content__title {
+  color: orangered;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.travel-content__text {
+  color: rgb(56, 165, 154);
+  font-family: sans-serif;
+  letter-spacing: 2;
+  font-size: 14px;
+  margin-bottom: 8px;
+
+}
